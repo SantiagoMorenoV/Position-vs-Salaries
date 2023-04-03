@@ -6,4 +6,4 @@ She collected data for different positions and salaries of the candidate's previ
 
 For this project, I estimated two models,  a polynomial regression and a linear one, then compared both of their predictions, implemented the polynomial prediction, and then wrote a brief discussion to see if this person was honest to the recruiter.
 
-###### This was an Udemy Guided Project.
+##### Note: This was an Udemy Guided Project.
